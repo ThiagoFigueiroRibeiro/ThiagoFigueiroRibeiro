@@ -1,4 +1,5 @@
-# Hello. Thiago here.   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=45&duration=1500&pause=1000&color=F75C00&vCenter=true&random=false&width=500&height=75&lines=Hello.+Thiago+here.+++;Welcome+to+my+github!)](https://git.io/typing-svg)
+
 <div>
   <img align="center" alt="thiago.java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="thiago.spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
