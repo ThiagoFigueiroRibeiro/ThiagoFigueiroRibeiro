@@ -9,7 +9,7 @@
 </div>
 
 - 🔭 I’m currently working on getting my Master's Degree in Electrical Engineering @ UFPA.
-- 🌱 I’m currently learning Java (Santander Coders)).
+- 🌱 I’m currently learning Java (Santander Coders).
 - 👯 I’m looking to collaborate on projects using Java Spring or Python/Django.
 - 📫 You can reach me in one of the links below:
   
