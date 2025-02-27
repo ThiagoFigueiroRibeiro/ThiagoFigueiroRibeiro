@@ -8,12 +8,12 @@
   <img align="center" alt="thiago.kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"> 
 </div>
 
-- 🔭 I’m currently working on getting my Master's Degree in Electrical Engineering @ UFPA.
-- 🌱 I’m currently learning Java (Santander Coders).
-- 👯 I’m looking to collaborate on projects using Java Spring or Python/Django.
+- 🔭 Master's Degree canditate in Electrical Engineering @ UFPA.
+- 🌱 Alumni Santander Coders - Backend Java.
+- 👯 Looking to collaborate on projects using Java Spring or Python/Django.
 - 📫 You can reach me in one of the links below:
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-figueiro-ribeiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagofigueiroribeiro/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagofigueiroribeiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoFigueiroRibeiro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://thiagofigueiroribeiro.github.io/)
